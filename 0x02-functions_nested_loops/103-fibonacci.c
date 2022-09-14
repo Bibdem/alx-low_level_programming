@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main"
 /**
  * main - prints sum of even fibonacci
  * suit elements
